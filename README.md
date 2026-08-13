@@ -234,19 +234,19 @@ The Decomposition Tree allows revenue to be interactively explored across dimens
 
 ### Page 1 — Executive Overview
 
-![Executive Overview](screenshots/page1-executive-overview.png)
+![Executive Overview](Page_1.png)
 
 ### Page 2 — Customer & Loyalty Analysis
 
-![Customer & Loyalty Analysis](screenshots/page2-customer-loyalty.png)
+![Customer & Loyalty Analysis](Page_2.png)
 
 ### Page 3 — Product & Category Performance
 
-![Product & Category Performance](screenshots/page3-product-category.png)
+![Product & Category Performance](Page_3.png)
 
 ### Page 4 — Purchase Behavior & Revenue Analysis
 
-![Purchase Behavior & Revenue Analysis](screenshots/page4-purchase-revenue.png)
+![Purchase Behavior & Revenue Analysis](Page_4.png)
 ## 🧮 DAX Measures
 
 Core DAX measures created for the dashboard include:
